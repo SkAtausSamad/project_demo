@@ -1,3 +1,3 @@
 This is my first repository
 <br>
-Author- Shaik Ataus Samad
+Author- Shaik Ataus
